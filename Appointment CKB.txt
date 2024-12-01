@@ -1,0 +1,3 @@
+GitHub is the largest web service for hosting IT projects and their joint development. 
+The web service is based on the Git version control system. 
+You can view the documentation for working with GitHub on the GitHub Help website.
